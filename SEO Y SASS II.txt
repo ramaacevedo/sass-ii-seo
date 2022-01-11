@@ -1,0 +1,12 @@
+SASS II:
+
+Se realizaron los cambios de SASS II, en la página _section.scss
+
+
+SEO:
+
+1- Coloqué un "meta descriptión". 
+2- Agregué etiquetas en "meta keywords".
+3- Coloqué dos <strong> en el sector "Misión y Visión".
+4- No tenía ningún H1, por lo tanto, cambié el H2 de "Nuestros productos congelados" por un H1, ya que tiene más gerarquía.
+5- Cambié el "Title".
